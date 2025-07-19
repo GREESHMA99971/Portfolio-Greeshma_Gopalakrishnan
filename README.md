@@ -41,21 +41,21 @@ I'm always open to discussing data, solving problems, or just chatting about ana
 - [Interview tips](#interview-tips)
 
 ---
-## 📌 SQL
+## 💾 SQL
 
 | Project Link | Description |
 | ------------ | ----------- |
 | | |
 
 ---
-## 📑 Excel
+## 📗 Excel
 
 | Project Link | Description |
 | ------------ | ----------- |
 |  |  |
 ---
 
-## 🐍 Python
+## 🧠 Python
 
 | Project Link | Description |
 | ------------ | ----------- |
