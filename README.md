@@ -27,3 +27,56 @@ Python | SQL | Pandas | NumPy | Matplotlib | Seaborn | scikit-learn | Power BI |
 I'm always open to discussing data, solving problems, or just chatting about analytics.
 
 🔗 https://www.linkedin.com/in/greeshmagopalakrishnan/
+
+---
+
+## 📝 FEATURED PROJECTS
+
+- [SQL](#sql)
+- [Excel](#excel)
+- [Python](#python)
+- [Power BI](#power-bi)
+- [Tableau](#tableau)
+- [Resume](#resume)
+- [Interview tips](#interview-tips)
+
+---
+## 📌 SQL
+
+| Project Link | Description |
+| ------------ | ----------- |
+| | |
+
+---
+## 📑 Excel
+
+| Project Link | Description |
+| ------------ | ----------- |
+|  |  |
+---
+
+## 🐍 Python
+
+| Project Link | Description |
+| ------------ | ----------- |
+|  |  |
+
+---
+
+## 📊 Power BI
+
+| Project Link | Description |
+| ------------ | ----------- |
+|  |  |
+|  |  |
+
+---
+
+## 📈 Tableau
+
+| Project Link | Description |
+| ------------ | ----------- |
+|  |  |
+
+---
+
